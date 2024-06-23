@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-23T11:41:27.653Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.54 Mobile/15E148 Safari/604.1" etag="I4-P2dBa3b-fW7svEw5t" version="24.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-23T11:46:40.503Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.54 Mobile/15E148 Safari/604.1" etag="LP3Dd9jNU0XLQdpp8A1A" version="24.6.1" type="github">
   <diagram name="Page-1" id="9s1uMs-VNAmVOXNsM-ho">
-    <mxGraphModel dx="1026" dy="1549" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="898" dy="1355" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -167,6 +167,17 @@
               <mxPoint x="9" y="825" />
               <mxPoint x="378" y="1180" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxBC2CD_0a8tpYDV5iCw-2" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="DqAF9gSvk_VSVLRmH7-x-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="472" y="815" as="sourcePoint" />
+            <mxPoint x="522" y="765" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxBC2CD_0a8tpYDV5iCw-3" value="Après un temps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="AxBC2CD_0a8tpYDV5iCw-2">
+          <mxGeometry x="0.0415" y="-1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
